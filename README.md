@@ -1,4 +1,4 @@
-# Digital memoir
+# E-Journal
 
 ## About
 Easy to use and a very handy website to write your journals in.
