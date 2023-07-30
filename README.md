@@ -1,4 +1,4 @@
-# Journal.ly
+# Digital memoir
 
 ## About
 Easy to use and a very handy website to write your journals in.
